@@ -1,0 +1,9 @@
+ELLIPTICITY = .true.
+TOPOGRAPHY = .true.
+CASE_3D = .true.
+CRUSTAL = .true.
+ISOTROPIC_3D_MANTLE = .true.
+ONE_CRUST = .true.
+TRANSVERSE_ISOTROPY = .false.
+#MODEL = EMC:AK_EMB_2019JGRSE/MCMC_EMBerg_highres_2019_AK.nc
+MODEL = S40RTS
